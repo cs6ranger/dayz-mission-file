@@ -93,4 +93,6 @@ espawn = compile preprocessFileLineNumbers "spawn\spawn.sqf";
 waitUntil {!isNil "PVDZE_plr_LoginRecord"};
 if (!isDedicated && (dayzPlayerLogin2 select 2)) then {[] spawn espawn;};
 [] execvm 'AGN\agn_SafeZoneCommander.sqf';
-[] execvm 'vehiclenodamage\nolockeddamage.sqf';
+[] execVM 'vehiclenodamage\nolockeddamage.sqf';
+[] execVM 'service_point\service_point.sqf';
+
