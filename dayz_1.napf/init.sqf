@@ -79,6 +79,15 @@ if (!isNil "dayZ_serverName") then {
 	};
 };
 
+if (isNil "fnc_vehicle_handleDamage") then {fnc_vehicle_handleDamage = compile preprocessFileLineNumbers "\z\addons\dayz_code\compile\vehicle_handleDamage.sqf";};
+vehicle_handleDamage = {
+	private["_obj","_result"];
+	_obj = _this select 0;
+	if (locked _obj && (count (crew _obj)) == 0) exitWith {_obj allowDamage false;};
+	_obj allowDamage true;
+	_result = _this call fnc_vehicle_handleDamage;
+	_result
+};
 
 //Start Dynamic Weather
 execVM "\z\addons\dayz_code\external\DynamicWeatherEffects.sqf";
