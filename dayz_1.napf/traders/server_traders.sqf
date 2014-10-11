@@ -14,7 +14,7 @@ menu_Graves = [
 ];
 // Weapons Friendly
 menu_US_Delta_Force_AR_EP1 = [
-	[["Assault Rifle",485],["Light Machine Gun",486],["Pistols",489],["Shotguns and Single-shot",574],["Sniper Rifle",487],["Submachine Guns",488],["OP Pistols",900],["HK416 Variants",901],["HK417 Variants",902],["TAR Variants",903],["MAS Variants",904],["DMR Variants",905],["SCAR Variants",906],["ACR Variants",907],["ACR SD Variants",908],["Sniper Variants",909],["G3 Variants",910],["LMG Variants",911],["SMG Variants",912],["AK Variants",913],["G36 Variants",914],["Spare Guns",915]["Chainsaw",703]],
+	[["Assault Rifle",485],["Light Machine Gun",486],["Pistols",489],["Shotguns and Single-shot",574],["Sniper Rifle",487],["Submachine Guns",488],["OP Pistols",900],["HK416 Variants",901],["HK417 Variants",902],["TAR Variants",903],["MAS Variants",904],["DMR Variants",905],["SCAR Variants",906],["ACR Variants",907],["ACR SD Variants",908],["Sniper Variants",909],["G3 Variants",910],["LMG Variants",911],["SMG Variants",912],["AK Variants",913],["G36 Variants",914],["Spare Guns",915]],
 	[],
 	"friendly"
 ];
@@ -32,7 +32,7 @@ menu_Damsel3 = [
 ];
 // Weapons neutral
 menu_Soldier_MG_PKM_PMC = [
-	[["Assault Rifle",602],["Light Machine Gun",603],["Pistols",606],["Shotguns and Single-shot",607],["Sniper Rifle",605],["Submachine Guns",604],["OP Pistols",900],["HK416 Variants",901],["HK417 Variants",902],["TAR Variants",903],["MAS Variants",904],["DMR Variants",905],["SCAR Variants",906],["ACR Variants",907],["ACR SD Variants",908],["Sniper Variants",909],["G3 Variants",910],["LMG Variants",911],["SMG Variants",912],["AK Variants",913],["G36 Variants",914],["Spare Guns",915],["Chainsaw",704]],
+	[["Assault Rifle",602],["Light Machine Gun",603],["Pistols",606],["Shotguns and Single-shot",607],["Sniper Rifle",605],["Submachine Guns",604],["OP Pistols",900],["HK416 Variants",901],["HK417 Variants",902],["TAR Variants",903],["MAS Variants",904],["DMR Variants",905],["SCAR Variants",906],["ACR Variants",907],["ACR SD Variants",908],["Sniper Variants",909],["G3 Variants",910],["LMG Variants",911],["SMG Variants",912],["AK Variants",913],["G36 Variants",914],["Spare Guns",915]],
 	[],
 	"neutral"
 ];
@@ -116,7 +116,7 @@ menu_TK_Special_Forces_EP1 = [
 ];
 // Weapons neutral 2
 menu_Ins_Soldier_AR = [
-	[["Assault Rifle",637],["Light Machine Gun",638],["Pistols",674],["Shotguns and Single-shot",641],["Sniper Rifle",640],["Submachine Guns",642],["OP Pistols",900],["HK416 Variants",901],["HK417 Variants",902],["TAR Variants",903],["MAS Variants",904],["DMR Variants",905],["SCAR Variants",906],["ACR Variants",907],["ACR SD Variants",908],["Sniper Variants",909],["G3 Variants",910],["LMG Variants",911],["SMG Variants",912],["AK Variants",913],["G36 Variants",914],["Spare Guns",915],["Chainsaw,706]],
+	[["Assault Rifle",637],["Light Machine Gun",638],["Pistols",674],["Shotguns and Single-shot",641],["Sniper Rifle",640],["Submachine Guns",642],["OP Pistols",900],["HK416 Variants",901],["HK417 Variants",902],["TAR Variants",903],["MAS Variants",904],["DMR Variants",905],["SCAR Variants",906],["ACR Variants",907],["ACR SD Variants",908],["Sniper Variants",909],["G3 Variants",910],["LMG Variants",911],["SMG Variants",912],["AK Variants",913],["G36 Variants",914],["Spare Guns",915]],
 	[],
 	"neutral"
 ];
