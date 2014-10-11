@@ -41,7 +41,7 @@ call compile preprocessFileLineNumbers "init\publicEH.sqf";				//Initilize the p
 progressLoadingScreen 0.2;
 call compile preprocessFileLineNumbers "\z\addons\dayz_code\medical\setup_functions_med.sqf";	//Functions used by CLIENT for medical
 progressLoadingScreen 0.4;
-call compile preprocessFileLineNumbers "init\compiles.sqf";				//Compile regular functions
+call compile preprocessFileLineNumbers "custom\compiles.sqf";				//Compile regular functions
 progressLoadingScreen 0.5;
 call compile preprocessFileLineNumbers "traders\server_traders.sqf";				//Compile trader configs
 progressLoadingScreen 1.0;
@@ -104,4 +104,5 @@ if (!isDedicated && (dayzPlayerLogin2 select 2)) then {[] spawn espawn;};
 [] execvm 'AGN\agn_SafeZoneCommander.sqf';
 [] execVM 'vehiclenodamage\nolockeddamage.sqf';
 [] execVM 'service_point\service_point.sqf';
+[] execVM "R3F_ARTY_AND_LOG\init.sqf";
 
