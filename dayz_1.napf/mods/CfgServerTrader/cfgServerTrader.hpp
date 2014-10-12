@@ -83,5 +83,4 @@ class CfgTraderCategory {
 	#include "Category\NeutralVehicleParts.hpp"
 	#include "Category\NeutralWholesale.hpp"
 	#include "Category\Overpoch.hpp"
-	#include "Category\NeutralChainSaw.hpp"
 };
