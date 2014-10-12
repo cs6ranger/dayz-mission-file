@@ -1,4 +1,4 @@
-class Category_699 {
+class Category_685 {
 	class ChainSawB {
 		type = "trade_items";
 		buy[] = {1,"ItemGoldBar"};
@@ -11,8 +11,8 @@ class Category_699 {
 	};
 };
 
-class Category_700 {
-	class ChainSaw {
+class Category_496 {
+	class ChainSawB {
 		type = "trade_items";
 		buy[] = {1,"ItemGoldBar"};
 		sell[] = {5,"ItemGoldBar"};

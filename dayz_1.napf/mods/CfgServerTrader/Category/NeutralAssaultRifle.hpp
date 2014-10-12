@@ -1,9 +1,4 @@
 class Category_602 {
-	class ChainSaw {
-		type = "trade_weapons";
-		buy[] = {1,"ItemGoldBar"};
-		sell[] = {5,"ItemGoldBar"};
-	};
 	class G36A_camo {
 		type = "trade_weapons";
 		buy[] = {6,"ItemGoldBar"};
@@ -116,11 +111,6 @@ class Category_602 {
 	};
 };
 class Category_637 {
-	class ChainSaw {
-		type = "trade_weapons";
-		buy[] = {1,"ItemGoldBar"};
-		sell[] = {5,"ItemGoldBar"};
-	};
 	class G36A_camo {
 		type = "trade_weapons";
 		buy[] = {8,"ItemGoldBar"};
