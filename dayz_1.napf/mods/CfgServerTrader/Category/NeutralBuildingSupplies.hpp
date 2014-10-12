@@ -1,9 +1,4 @@
 class Category_662 {
-	class ItemComboLock {
-		type = "trade_items";
-		buy[] = {8,"ItemGoldBar"};
-		sell[] = {4,"ItemGoldBar"};
-	};
 	class ItemSandbag {
 		type = "trade_items";
 		buy[] = {4,"ItemGoldBar"};
@@ -56,11 +51,6 @@ class Category_662 {
 	};
 };
 class Category_508 {
-	class ItemComboLock {
-		type = "trade_items";
-		buy[] = {8,"ItemGoldBar"};
-		sell[] = {4,"ItemGoldBar"};
-	};
 	class ItemSandbag {
 		type = "trade_items";
 		buy[] = {4,"ItemGoldBar"};
