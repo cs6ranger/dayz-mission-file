@@ -194,4 +194,3 @@ class DayZ_loadingScreen
 #include "spawn\class.hpp"
 #include "spawn\halo.hpp"
 #include "spawn\spawn.hpp"
-#include "custom\snap_pro\snappoints.hpp"

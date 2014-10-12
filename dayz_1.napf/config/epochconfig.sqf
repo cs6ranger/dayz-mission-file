@@ -122,9 +122,6 @@ DZE_ConfigTrader = true;
 
 //If True will allow building on roads
 DZE_BuildOnRoads = false;
-DZE_noRotate = []; //Objects that cannot be rotated. Ex: DZE_noRotate = ["VaultStorageLocked"]
-DZE_curPitch = 45; //Starting rotation angle. Only 1, 5, 45, or 90.
-
 
 // Custom Mission Loot Table (Default: false)
 DZE_MissionLootTable = true;
