@@ -4,6 +4,16 @@ class Category_662 {
 		buy[] = {5,"ItemGoldBar"};
 		sell[] = {2,"ItemGoldBar"};
 	};
+	class ItemMixOil {
+		type = "trade_items";
+		buy[] = {1,"ItemGoldBar"};
+		sell[] = {5,"ItemGoldBar"};
+	};
+	class ChainSawB {
+		type = "trade_weapons";
+		buy[] = {1,"ItemGoldBar"};
+		sell[] = {5,"ItemGoldBar"};
+	};
 	class ItemSandbag {
 		type = "trade_items";
 		buy[] = {4,"ItemGoldBar"};
@@ -60,6 +70,16 @@ class Category_508 {
 		type = "trade_items";
 		buy[] = {5,"ItemGoldBar"};
 		sell[] = {2,"ItemGoldBar"};
+	};
+	class ItemMixOil {
+		type = "trade_items";
+		buy[] = {1,"ItemGoldBar"};
+		sell[] = {5,"ItemGoldBar"};
+	};
+	class ChainSawB {
+		type = "trade_weapons";
+		buy[] = {1,"ItemGoldBar"};
+		sell[] = {5,"ItemGoldBar"};
 	};
 	class ItemSandbag {
 		type = "trade_items";
